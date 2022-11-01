@@ -9,4 +9,6 @@ Step 2: write the following code <br>
 Step 3: open the Terminal<br>
 Step 4: type "pip install pyautogui" in the Terminal<br>
 Step 5: Now run the code <br>
-Step 6: open were you wanna send and press enter button.
+Step 6: open were you wanna send and press enter button.<br>
+open the  specified 
+chat beforly where you wanted to send the messages.....
